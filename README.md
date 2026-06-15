@@ -1,1 +1,3 @@
-# izy-pagina-web
+Meu blog tech
+ 
+ Vou compartilhar conhecimentos sobre tecnologia e programação.
